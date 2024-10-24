@@ -2,7 +2,8 @@
   "name": "myportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/YaminaGhobni.github.io/Myportfolio",
+  "homepage": "https://yaminaghobni.github.io/Myportfolio",
+  
   "dependencies": {
     "@formspree/react": "^2.5.1",
     "@testing-library/jest-dom": "^5.17.0",
@@ -10,7 +11,6 @@
     "@testing-library/user-event": "^13.5.0",
     "firebase": "^11.0.1",
     "framer-motion": "^11.11.9",
-    "gh-pages": "^6.2.0",
     "lottie-react": "^2.4.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
@@ -22,8 +22,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+
     "predoploy": "npm run build",
-    "deploy": "npm run buil && gh-pages -d dist"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -42,5 +43,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
   }
 }
