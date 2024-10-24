@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/YaminaGhobni.github.io/Myportfolio/static/css/main.bcdca916.css",
-    "main.js": "/YaminaGhobni.github.io/Myportfolio/static/js/main.52ee0446.js",
-    "static/js/453.83234151.chunk.js": "/YaminaGhobni.github.io/Myportfolio/static/js/453.83234151.chunk.js",
-    "index.html": "/YaminaGhobni.github.io/Myportfolio/index.html",
-    "main.bcdca916.css.map": "/YaminaGhobni.github.io/Myportfolio/static/css/main.bcdca916.css.map",
-    "main.52ee0446.js.map": "/YaminaGhobni.github.io/Myportfolio/static/js/main.52ee0446.js.map",
-    "453.83234151.chunk.js.map": "/YaminaGhobni.github.io/Myportfolio/static/js/453.83234151.chunk.js.map"
+    "main.css": "/Myportfolio/static/css/main.bcdca916.css",
+    "main.js": "/Myportfolio/static/js/main.110b1002.js",
+    "static/js/453.83234151.chunk.js": "/Myportfolio/static/js/453.83234151.chunk.js",
+    "index.html": "/Myportfolio/index.html",
+    "main.bcdca916.css.map": "/Myportfolio/static/css/main.bcdca916.css.map",
+    "main.110b1002.js.map": "/Myportfolio/static/js/main.110b1002.js.map",
+    "453.83234151.chunk.js.map": "/Myportfolio/static/js/453.83234151.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bcdca916.css",
-    "static/js/main.52ee0446.js"
+    "static/js/main.110b1002.js"
   ]
 }
